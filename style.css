@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 11px;
+    background-color: rgb(255, 0, 64);
+    color: rgba(175, 61, 61, 0.685);
+}   
+h1{
+    color: rgb(21, 185, 214);
+    font-size: 24px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+li {
+    color: blue;
+    font-size: 24px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
